@@ -1,6 +1,6 @@
 # Interface Builder - Basics
 
-<img src="http://tnhdigital.com/wp-content/uploads/2015/09/yogi-berra.jpg" alt="Drawing" style="width: 200px;"/>  
+<img src="http://mlb.mlb.com/mlb/images/players/head_shot/110925.jpg" alt="Drawing" style="width: 200px;"/>  
 > In theory, there is no difference between theory and practice. But in practice, there is.
 
 ## Learning Objectives - The student should be able to..
