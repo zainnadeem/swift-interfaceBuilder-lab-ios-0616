@@ -5,18 +5,7 @@
 
 ## Learning Objectives - The student should be able to...
 
-* Feel comfortable with working with the various aspects of Interface Builder.
-
-## What the student can do at this point 
-
-* Has a general overview of Xcode and is able to create a new project.
-* Knows where to locate the testing file within Xcode.
-* Knows how to navigate to Interface Builder.
-* Knows what a storyboard file is.
-* Has a brief overview of what the Object Library is.
-* Can drag a View Controller onto the canvas.
-* Can locate and drag items from the Object Library.
-* Can locate the Attributes Inspector and change the Background color of Views
+* Work with the various aspects of Interface Builder.
 
 ## Simon Says: Make an App
 
