@@ -1,7 +1,7 @@
 # Interface Builder: Basics
 
-![Drawing](http://mlb.mlb.com/mlb/images/players/head_shot/110925.jpg)
-> In theory, there is no difference between theory and practice. But in practice, there is.
+![Drawing](http://i.imgur.com/LuPm37H.jpg?1)
+> In theory, there is no difference between theory and practice. But in practice, there is. -[Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra)
 
 ## Learning Objectives - The student should be able to...
 
