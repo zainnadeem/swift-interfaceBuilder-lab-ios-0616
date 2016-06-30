@@ -3,7 +3,7 @@
 ![Drawing](http://i.imgur.com/LuPm37H.jpg?1)
 > In theory, there is no difference between theory and practice. But in practice, there is. -[Yogi Berra](https://en.wikipedia.org/wiki/Yogi_Berra)
 
-## Learning Objectives - The student should be able to...
+## Learning Objectives
 
 * Work with the various aspects of Interface Builder.
 
@@ -55,7 +55,7 @@ That's it! Not so complicated, is it? Let's walk through the creation of this ap
 
 And you're done! Take a look at the object listing (you do remember where that is, don't you?). It should look like this:
 
-![Object listing](.images/object-listing.png)
+![Object listing](http://i.imgur.com/Y6pMzfn.png)
 
 You can build and run your application in the simulator to see what it looks like. It doesn't do anything yet, but you've now successfully laid out a graphical interface using Interface Builder, and that's half the battle!
 
